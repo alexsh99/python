@@ -1,2 +1,0 @@
-# python
-Уроки по Python
